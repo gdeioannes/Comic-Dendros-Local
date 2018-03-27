@@ -1,0 +1,188 @@
+
+#pA00 { background: url("../paneles/pB08b.png"); }
+#PA8_01 {
+    left: 38px;
+    top: 144px;
+}
+
+#pA01 { background: url("../paneles/pB10.png"); }
+#PA9_01 { left:36px; top:33px; }		
+
+#pA02 { background: url("../paneles/pB11.png"); }
+#PA10_01 { left:40px; top:27px; }
+
+#pA03 { background: url("../paneles/pB12.png"); }
+#PB12_01 { left:38px; top:33px; }
+#GlobosPB_12P1G1 { left:40px; top:18px; }
+#GlobosPB_12P1G2 { left:100px; top:380px; }
+#PB12_02 { left:273px; top:33px; }
+#GlobosPB_12P2G1 { left: 280px; top: 150px; }
+#GlobosPB_12P2G2{ left: 380px; top: 200px; }
+#PB12_03 { top: 33px; right: 38px; }
+#GlobosPB_12P3G1{ right: 88px; top: 30px; }
+#GlobosPB_12P3G2{ right: 15px; top: 130px; }
+#PB12_04 { bottom: 33px; right: 38px; }
+#GlobosPB_12P4G1{ bottom: 200px; right:175px; }
+#GlobosPB_12P4G2{ bottom: 25px; right:160px; }
+#GlobosPB_12P4G3{ bottom: 33px; right:25px; }
+
+#pA04 { background: url("../paneles/pC03.png"); }
+#PB2_01 {
+	left:37px;
+	top:30px;
+}
+#GlobosPC_3P1G1 {
+    left: 120px;
+    top: 151px;
+}
+#GlobosPC_3P1G2 {
+	top: 442px;
+	left: 50px;
+}
+#GlobosPC_3P2G1 {
+	top: 395px;
+	right: 214px;
+}
+#PB2_02 { right: 36px; top: 30px; }
+
+#pA05 { background: url("../paneles/pC04.png"); }
+
+#PB3_01 { left:0px; top:0px; }
+#GlobosPC_4P1G2 {
+    left: 105px;
+    top: -15px;
+}
+#GlobosPC_4P1G1 {
+    left: 22px;
+    top: 0;
+}
+#GlobosPC_4p2g1 {
+    left: 294px;
+    top: 0;
+}
+#GlobosPC_4p3g1 {
+    right: 16px;
+    top: 33px;
+}
+#GlobosPC_4p3g2 {
+    right: 57px;
+    top: 188px;
+}
+#GlobosPC_4p4g1 {
+    bottom: 198px;
+    left: 50px;
+}
+#GlobosPC_4p5g1 {
+    bottom: 220px;
+    left: 298px;
+}
+#GlobosPC_4p5g2 {
+    bottom: 54px;
+    left: 337px;
+}
+#GlobosPC_4p6g1 {
+    bottom: 200px;
+    right: 100px;
+}
+#GlobosPC_4p6g2 {
+    bottom: 35px;
+    right: 74px;
+}
+#PB3_02 { left:0px; top:0px; }
+#PB3_03 { left:0px; top:0px; }
+#PB3_04 { left:0px; top:0px; }
+#PB3_05 { left:0px; top:0px; }
+#PB3_06 { left:0px; top:0px; }
+
+/*#pA06 { background: url(""); }*/
+
+#pA07 { background: url("../paneles/pB13.png"); }
+#B13_01 {
+    left: 38px;
+    top: 29px;
+}
+#GlobosPB_13P1G1 { left:20px; top:18px; }
+#GlobosPB_13P1G2 { left:35px; top:275px; }
+#B13_02 { left:0px; top:0px; }
+#GlobosPB_13P2G1 { right: 230px; top: 50px; }
+#B13_03 {
+    left: 39px;
+    bottom: 37px;
+}
+#GlobosPB_13P3G1 { left: 180px; bottom: 220px; }
+#B13_04 { left:0px; top:0px; }
+#GlobosPB_13P4G1 { right: 210px; bottom: 220px; }
+#GlobosPB_13P4G2 { right: 195px; bottom: 40px; }
+#GlobosPB_13P4G3 { right: 10px; bottom: 30px; }
+
+#pA08 { background: url("../paneles/pB14.png"); }
+#B14_01 { left:0px; top:0px; }
+#GlobosPB_14P1G1 { left:40px; top:25px; }
+#GlobosPB_14P1G2 { left:25px; top:190px; }
+#B14_02 {
+    top: 33px;
+    right: 39px;
+}
+#B14_03 {
+    left: 39px;
+    bottom: 39px;
+}
+#GlobosPB_14P2G1 { right:300px; top:30px; }
+#GlobosPB_14P2G2 { right:30px; top:20px; }
+#GlobosPB_14P3G1 { left:200px; bottom:240px; }
+#GlobosPB_14P3G2 { left:60px; bottom:50px; }
+#B14_04 {
+    right: 39px;
+    bottom: 39px;
+}
+#GlobosPB_14P4G1 { right:45px; bottom:220px; }
+
+
+#pA09 { background: url("../paneles/pb16a.png"); }
+ #Pb16map_01 {
+    left: 165px;
+    top: 202px;
+}
+#GlobosPB_16P1G1 {
+    left: 347px;
+    top: 138px;
+}
+
+/*#pA10 { background: url(""); }*/
+
+#pA11 { background: url("../paneles/pb6zoom_all.png"); }
+#PB6_05 {
+    left: 201px;
+    top: 132px;
+}
+
+#B15_03 {
+    left: 35px;
+    bottom: 39px;
+}
+#pA12 {
+    background: url('../paneles/pB15.png');
+}
+#B15_01 { left:34px; top:32px; }
+#GB15_P1G1 { left:40px; top:30px; }
+#GB15_P1G2 { left:165px; top:180px; }
+#B15_02 { left:0px; top:0px; }
+#GB15_P2G1 { right:60px; top:50px; }
+#GB15_P3G1 { left:40px; bottom:210px; }
+#GB15_P3G2 { left:250px; bottom:165px; }
+#B15_04 { left:0px; top:0px; }
+#GB15_P4G1 { right:290px; bottom:230px; }
+#GB15_P4G2 { right:30px; bottom:200px; }
+
+#pA13 { background: url("../paneles/pC01a.png"); }
+#PC1_01 { left: 38px; top: 32px; }
+#GC1_01 { left:30px; top:72px; }
+#GC1_02 { left:60px; bottom:45px; }
+
+
+
+
+
+
+
+

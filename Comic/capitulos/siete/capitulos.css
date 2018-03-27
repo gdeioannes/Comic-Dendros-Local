@@ -1,0 +1,590 @@
+body {
+	background: #000;
+}
+#pA00		{ background: url("../paneles/G01.png"); }
+
+#G01_p1 { top: 30px; left: 30px;}
+#G01_p2 {
+	top: 30px;
+	right: 30px;
+}
+#G01_p3 {
+    left: 30px;
+    top: 219px;
+}
+#GlobosPG_1p3g1 {
+    left: 15px;
+    top: 212px;
+}
+#G01_p4 {
+    bottom: 31px;
+    left: 30px;
+}
+#GlobosPG_1p4g1 {
+    bottom: 123px;
+    left: 30px;
+}
+#G01_p5 {
+    bottom: 31px;
+    left: 318px;
+}
+#GlobosPG_1p5g1 {
+    left: 317px;
+    top: 215px;
+}
+#GlobosPG_1p5g2 {
+    bottom: 184px;
+    left: 309px;
+}
+#GlobosPG_1p5g3 {
+    bottom: 40px;
+    left: 334px;
+}
+#G01_p6 {
+    bottom: 31px;
+    right: 30px;
+}
+#GlobosPG_1p6g1 {
+    bottom: 118px;
+    right: 28px;
+}
+
+#pA01		{ background: url("../paneles/G02.png"); }
+#G02_p1 {
+    left: 33px;
+    top: 29px;
+}
+#GlobosPG_2p1g1 {
+    left: 20px;
+    top: 20px;
+}
+#G02_p2 {
+    left: 294px;
+    top: 29px;
+}
+#GlobosPG_2p2g1 {
+    left: 404px;
+    top: 116px;
+}
+#G02_p3 {
+    right: 27px;
+    top: 30px;
+}
+#G02_p4 {
+    bottom: 34px;
+    left: 31px;
+}
+#G02_p5 {
+    bottom: 34px;
+    right: 30px;
+}
+#GlobosPG_2p5g1{
+    bottom: 74px;
+    right: 84px;
+}
+
+#pA02		{ background: url("../paneles/G03.png"); }
+
+#G03_p1 {
+    top: 29px;
+    left: 29px;
+}
+#GlobosPG_3p1g1 {
+    top: 25px;
+    left: 20px;
+}
+#GlobosPG_3p1g2 {
+    left: 160px;
+    top: 24px;
+}
+#GlobosPG_3p1g3 {
+    top: 145px;
+    left: 25px;
+}
+#G03_p2 {
+    right: 26px;
+    top: 28px;
+}
+#GlobosPG_3p2g1 {
+    right: 50px;
+    top: 23px;
+}
+#G03_p3 {
+    top: 230px;
+    left: 28px;
+}
+#GlobosPG_3p3g1 {
+    top: 320px;
+    left: 20px;
+}
+#GlobosPG_3p3g2 {
+    top: 317px;
+    left: 196px;
+}
+#G03_p4 {
+    bottom: 30px;
+    left: 28px;
+}
+#GlobosPG_3p4g1 {
+    bottom: 24px;
+    left: 194px;
+}
+#G03_p5 {
+    bottom: 30px;
+    left: 336px;
+}
+#G03_p6 {
+    top: 232px;
+    right: 26px;
+}
+#GlobosPG_3p6g1 {
+    right: 17px;
+    top: 228px;
+}
+#G03_p7 {
+    right: 25px;
+    bottom: 31px;
+}
+#GlobosPG_3p7g1 {
+    right: 20px;
+    bottom: 27px;
+}
+
+#pA03		{ background: url("../paneles/G04.png"); }
+#G04_p1 {
+    left: 31px;
+    top: 29px;
+}
+#GlobosPG_4p1g1 {
+    left: 118px;
+    top: 127px;
+}
+#G04_p2 {
+    left: 228px;
+    top: 30px;
+}
+#G04_p3 {
+    right: 24px;
+    top: 30px;
+}
+#GlobosPG_4p3g1 {
+    right: 18px;
+    top: 30px;
+}
+#G04_p4 {
+    bottom: 34px;
+    left: 29px;
+}
+#GlobosPG_4p4g1 {
+    left: 41px;
+    top: 256px;
+}
+#GlobosPG_4p4g2 {
+    left: 209px;
+    top: 245px;
+}
+#GlobosPG_4p4g3 {
+    bottom: 126px;
+    left: 88px;
+}
+#G04_p5 {
+    bottom: 238px;
+    right: 27px;
+}
+#GlobosPG_4p5g1 {
+    bottom: 232px;
+    right: 154px;
+}
+#G04_p6 {
+    bottom: 33px;
+    right: 28px;
+}
+#GlobosPG_4p6g1 {
+    bottom: 23px;
+    right: 100px;
+}
+
+#pA04		{ background: url("../paneles/pE11.png"); }
+#PE11_01 {
+    left: 100px;
+    top: 163px;
+}
+#G_E11_P1G1 {
+    left: 70px;
+    top: 135px;
+}
+#PE11_02 {
+    left: 273px;
+    top: 163px;
+}
+#PE11_03 {
+    right: 104px;
+    top: 163px;
+}
+#G_E11_P3G1 {
+    bottom: 100px;
+    right: 100px;
+}
+
+#pA05		{ background: url("../paneles/G05.png"); }
+#G05_p1 {
+    left: 31px;
+    top: 30px;
+}
+#GlobosPG_5p1g1 {
+    left: 140px;
+    top: 20px;
+}
+#GlobosPG_5p1g2 {
+    left: 100px;
+    top: 182px;
+}
+#G05_p2 {
+    left: 307px;
+    top: 33px;
+}
+#GlobosPG_5p2g1 {
+    left: 395px;
+    top: 20px;
+}
+#GlobosPG_5p2g2 {
+    left: 400px;
+    top: 188px;
+}
+#G05_p3 {
+    right: 31px;
+    top: 33px;
+}
+#GlobosPG_5p3g1 {
+    right: 101px;
+    top: 200px;
+}
+#G05_p4 {
+    bottom: 34px;
+    left: 30px;
+}
+#GlobosPG_5p4g1 {
+    bottom: 268px;
+    left: 20px;
+}
+#GlobosPG_5p4g2 {
+    bottom: 32px;
+    left: 200px;
+}
+#G05_p5 {
+    bottom: 34px;
+    left: 423px;
+}
+#GlobosPG_5p5g1 {
+    bottom: 274px;
+    left: 300px;
+}
+#G05_p6 {
+    bottom: 36px;
+    right: 30px;
+}
+#GlobosPG_5p6g1 {
+    bottom: 243px;
+    right: 119px;
+}
+
+#pA06		{ background: url("../paneles/G06.png"); }
+#G06_p1 {
+    left: 30px;
+    top: 30px;
+}
+#GlobosPG_6p1g1 {
+    left: 100px;
+    top: 20px;
+}
+#GlobosPG_6p1g2 {
+    left: 21px;
+    top: 170px;
+}
+#G06_p2 {
+    left: 324px;
+    top: 30px;
+}
+#GlobosPG_6p2g1 {
+    left: 400px;
+    top: 20px;
+}
+#G06_p3 {
+    right: 24px;
+    top: 31px;
+}
+#GlobosPG_6p3g1 {
+    right: 34px;
+    top: 50px;
+}
+#G06_p4 {
+    bottom: 34px;
+    left: 30px;
+}
+#GlobosPG_6p4g1 {
+    bottom: 251px;
+    left: 40px;
+}
+#GlobosPG_6p4g2 {
+    bottom: 30px;
+    left: 113px;
+}
+#G06_p5 {
+    bottom: 39px;
+    left: 334px;
+}
+#GlobosPG_6p5g1 {
+    bottom: 228px;
+    left: 296px;
+}
+#G06_p6 {
+    bottom: 33px;
+    right: 27px;
+}
+#GlobosPG_6p6g1 {
+    bottom: 30px;
+    right: 22px;
+}
+
+#pA07		{ background: url("../paneles/G07.png"); }
+#G07_p1 {
+    left: 28px;
+    top: 33px;
+}
+#GlobosPG_7p1g1 {
+    left: 131px;
+    top: 25px;
+}
+#GlobosPG_7p1g2 {
+    left: 161px;
+    top: 100px;
+}
+#GlobosPG_7p1g3 {
+    left: 88px;
+    top: 172px;
+}
+#G07_p2 {
+    left: 328px;
+    top: 35px;
+}
+#GlobosPG_7p2g1 {
+    right: 291px;
+    top: 40px;
+}
+#GlobosPG_7p2g2 {
+    left: 316px;
+    top: 123px;
+}
+#GlobosPG_7p2g3 {
+    right: 236px;
+    top: 173px;
+}
+#G07_p3 {
+    right: 31px;
+    top: 35px;
+}
+#GlobosPG_7p3g1 {
+    right: 30px;
+    top: 30px;
+}
+#G07_p4 {
+    bottom: 35px;
+    left: 31px;
+}
+#GlobosPG_7p4g1 {
+    bottom: 257px;
+    left: 214px;
+}
+#GlobosPG_7p4g2 {
+    bottom: 70px;
+    left: 200px;
+}
+#G07_p5 {
+    bottom: 227px;
+    left: 362px;
+}
+#GlobosPG_7p5g1 {
+    bottom: 333px;
+    right: 326px;
+}
+#GlobosPG_7p5g2 {
+    bottom: 218px;
+    right: 350px;
+}
+#G07_p6 {
+    bottom: 32px;
+    right: 281px;
+}
+#G07_p7 {
+    bottom: 35px;
+    right: 30px;
+}
+#GlobosPG_7p7g1 {
+    bottom: 200px;
+    right: 100px;
+}
+#GlobosPG_7p7g2 {
+    bottom: 50px;
+    right: 100px;
+}
+
+#pA08		{ background: url("../paneles/G08.png"); }
+#G08_p1 {
+    left: 30px;
+    top: 35px;
+}
+#GlobosPG_8p1g1 {
+    left: 117px;
+    top: 26px;
+}
+#GlobosPG_8p1g2 {
+    left: 50px;
+    top: 147px;
+}
+#G08_p2 {
+    left: 251px;
+    top: 33px;
+}
+#GlobosPG_8p2g1 {
+    left: 314px;
+    top: 30px;
+}
+#G08_p3 {
+    right: 25px;
+    top: 35px;
+}
+#GlobosPG_8p3g1 {
+    right: 202px;
+    top: 30px;
+}
+#GlobosPG_8p3g2 {
+    right: 16px;
+    top: 30px;
+}
+#G08_p4 {
+    bottom: 36px;
+    left: 31px;
+}
+#GlobosPG_8p4g1 {
+    bottom: 280px;
+    left: 26px;
+}
+#GlobosPG_8p4g2 {
+    bottom: 280px;
+    left: 193px;
+}
+#GlobosPG_8p4g3 {
+    bottom: 95px;
+    left: 119px;
+}
+#G08_p5 {
+    bottom: 37px;
+    right: 26px;
+}
+#GlobosPG_8p5g1 {
+    bottom: 258px;
+    right: 200px;
+}
+
+#pA09		{ background: url("../paneles/G09.png"); }
+
+#G09_p1 {
+    left: 29px;
+    top: 33px;
+}
+#GlobosPG_9p1g1 {
+    left: 25px;
+    top: 25px;
+}
+#GlobosPG_9p1g2 {
+    left: 89px;
+    top: 87px;
+}
+#GlobosPG_9p1g3 {
+    left: 219px;
+    top: 63px;
+}
+#GlobosPG_9p1g4 {
+    left: 190px;
+    top: 221px;
+}
+#G09_p2 {
+    right: 26px;
+    top: 31px;
+}
+#GlobosPG_9p2g1 {
+    right: 242px;
+    top: 25px;
+}
+#GlobosPG_9p2g2 {
+    right: 93px;
+    top: 30px;
+}
+#G09_p3 {
+    bottom: 34px;
+    left: 29px;
+}
+#GlobosPG_9p3g1 {
+    bottom: 220px;
+    display: block;
+}
+#G09_p4 {
+    bottom: 34px;
+    left: 267px;
+}
+#GlobosPG_9p4g1 {
+    bottom: 223px;
+    left: 290px;
+}
+#G09_p5 {
+    bottom: 35px;
+    right: 25px;
+}
+#GlobosPG_9p5g1 {
+    bottom: 30px;
+    right: 30px;
+}
+
+#pA10		{ background: url("../paneles/G10.png"); }
+#G10_p1 {
+    left: 25px;
+    top: 30px;
+}
+#G10_p2 {
+    right: 27px;
+    top: 34px;
+}
+#G10_p3 {
+    bottom: 22px;
+    right: 20px;
+}
+
+#pA11       { background: url("../paneles/G11.png"); }
+#G11_p1 {
+    left: 30px;
+    top: 30px;
+}
+#G11_p2 {
+    left: 270px;
+    top: 30px;
+}
+#G11_p3 {
+    right: 25px;
+    top: 30px;
+}
+#G11_p4 {
+    bottom: 36px;
+    left: 28px;
+}
+#GlobosPG_11p4g1 {
+    bottom: 300px;
+    left: 48px;
+}
+#G11_p5 {
+    bottom: 36px;
+    right: 26px;
+}
+#GlobosPG_11p5g1 {
+    bottom: 286px;
+    right: 250px;
+}
