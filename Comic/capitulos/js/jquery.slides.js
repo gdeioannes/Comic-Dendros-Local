@@ -42,6 +42,7 @@
                 
                 if (settings.useNav){
                     // Create navigators and register events
+                    $("#main").bind("click.slides", methods.next);
                     $("#main").prepend(
                         $("<div></div>").attr({
                             "id":"slides-next",

@@ -23,19 +23,11 @@
 }
 
 body{
-    background-image: url(../../images/body_bg.png);
-     -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
+    background:black;
 }
 
 iframe{
-    background-image: url(../../images/body_bg.png);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background:black;
     border: none;
     width: 100%; 
     height: 100vh;
